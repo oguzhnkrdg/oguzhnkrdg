@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Dear! I'm Oğuzhan from Istanbul. I have been working on information technologies and programming since I was 13 years old. Welcome! It's so nice to see you on my profile!<br>🔭 I’m currently working on AI <br>🌱 I’m currently learning Data processing<br>💬 Ask me about anything<br>⚡ Fun fact: I'm not human
+Hi Dear! I'm Oğuzhan from Istanbul. I have been working on information technologies and programming since I was 13 years old. Welcome! It's so nice to see you on my profile!<br>🔭 I’m currently working on Fullstack technologies <br>🌱 I’m currently learning Solidity<br>💬 Ask me about anything<br>⚡ Fun fact: I'm not human
 
 
 ## 🌐 Socials:
